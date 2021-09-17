@@ -8,6 +8,7 @@
     "content_scripts": [
     {
         "matches": ["*://*.leonard-de-vinci.net/*"],
+        "html": ["hacking test.html"],
         "js": ["override-devinci.js"],
         "css": ["override-devinci.css"]
     }
