@@ -1,0 +1,1 @@
+document.getElementsByTagName('navbar-inner')[0].classList.add('override')
