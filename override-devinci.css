@@ -1,3 +1,7 @@
+.override_body{
+    transition: all 0.4s;
+}
+
 .override{
     font-family: "Roboto Thin", sans-serif;
 }
@@ -129,6 +133,8 @@
     border-width: 2px;
     border-image: linear-gradient(45deg, rgb(157,2,8), rgb(208,0,0)) 1;
 }
+
+
 
 
 
